@@ -1,15 +1,21 @@
 - 👋 Hi, I’m @ReportDataCode
 - 👀 I’m interested in ...
-Blockchain technologies, Application Development, Game Development, Ethical Hacking and Web Development
+  * computer sciences
+  * cloud
+  * artificial intelligence
+  * data science
+  * web development
+  * DevOps
 - 🌱 I’m currently learning ...
-Blockchain development and Software Development
+  * Machine learning and artificial intelligence and related Microsoft Azure serivce
+  * DevOps Engineering
+  * Laravel
 - 💞️ I’m looking to collaborate on ...
-a prototype that utilize the blockchain technology in  Logistics and Distribution of COVID-19 Vaccines in the Philippines!
+  * Incorporating cognitive services into applications using Azure Cognitive Services
+  * Building an observability platforms for virtual servers
 - 📫 How to reach me ...
-Say Hi to me! I'll need it!
-You can also reach me at this GitHub and Discord!
-I'll love if you got any ideas about blockchain technologies and related projects!
-Shardless#0292
+You can also reach me at this GitHub!
+
 
 
 
